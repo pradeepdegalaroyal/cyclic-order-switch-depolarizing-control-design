@@ -1,0 +1,129 @@
+{
+  "classical_limit_fe": 0.5,
+  "classical_limit_avg_fidelity": 0.6666666666666666,
+  "runtime_seconds": 809.4,
+  "torch_threads": 6,
+  "quick": false,
+  "scaling": [
+    {
+      "config": "all-N3",
+      "method": "fixed protocol",
+      "mean": 0.33333333333333354,
+      "std": NaN,
+      "max": 0.33333333333333354,
+      "count": 1
+    },
+    {
+      "config": "all-N3",
+      "method": "learned encoder + decoder",
+      "mean": 0.655232603676513,
+      "std": 0.043025040498505154,
+      "max": 0.7043620163141282,
+      "count": 5
+    },
+    {
+      "config": "all-N4",
+      "method": "fixed protocol",
+      "mean": 0.32134682773029627,
+      "std": NaN,
+      "max": 0.32134682773029627,
+      "count": 1
+    },
+    {
+      "config": "all-N4",
+      "method": "learned encoder + decoder",
+      "mean": 0.652624991959044,
+      "std": 0.049948484891574545,
+      "max": 0.7099569237210066,
+      "count": 3
+    },
+    {
+      "config": "cyclic-N2",
+      "method": "fixed protocol",
+      "mean": 0.37499999999999983,
+      "std": NaN,
+      "max": 0.37499999999999983,
+      "count": 1
+    },
+    {
+      "config": "cyclic-N2",
+      "method": "learned decoder only",
+      "mean": 0.3750000000000002,
+      "std": 3.925231146709438e-17,
+      "max": 0.3750000000000003,
+      "count": 3
+    },
+    {
+      "config": "cyclic-N2",
+      "method": "learned encoder + decoder",
+      "mean": 0.6246606367114158,
+      "std": 0.0007588393823438326,
+      "max": 0.6250000000000007,
+      "count": 5
+    },
+    {
+      "config": "cyclic-N3",
+      "method": "fixed protocol",
+      "mean": 0.4166666666666668,
+      "std": NaN,
+      "max": 0.4166666666666668,
+      "count": 1
+    },
+    {
+      "config": "cyclic-N3",
+      "method": "learned decoder only",
+      "mean": 0.41512355040033233,
+      "std": 0.0026727557749920503,
+      "max": 0.41666666666666696,
+      "count": 3
+    },
+    {
+      "config": "cyclic-N3",
+      "method": "learned encoder + decoder",
+      "mean": 0.6240448350345347,
+      "std": 0.001919431470587979,
+      "max": 0.6250000000000006,
+      "count": 5
+    },
+    {
+      "config": "cyclic-N4",
+      "method": "fixed protocol",
+      "mean": 0.4375,
+      "std": NaN,
+      "max": 0.4375,
+      "count": 1
+    },
+    {
+      "config": "cyclic-N4",
+      "method": "learned decoder only",
+      "mean": 0.4355693568560401,
+      "std": 0.002247192744188393,
+      "max": 0.43749998596550355,
+      "count": 3
+    },
+    {
+      "config": "cyclic-N4",
+      "method": "learned encoder + decoder",
+      "mean": 0.6235810067510246,
+      "std": 0.0019689526470181794,
+      "max": 0.6249999199502734,
+      "count": 5
+    },
+    {
+      "config": "cyclic-N5",
+      "method": "fixed protocol",
+      "mean": 0.4500000000000002,
+      "std": NaN,
+      "max": 0.4500000000000002,
+      "count": 1
+    },
+    {
+      "config": "cyclic-N5",
+      "method": "learned encoder + decoder",
+      "mean": 0.6249070874041555,
+      "std": 0.0001281294536446666,
+      "max": 0.6250000000000007,
+      "count": 5
+    }
+  ]
+}

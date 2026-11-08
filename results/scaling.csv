@@ -1,0 +1,44 @@
+config,n_channels,order_set,n_orders,method,seed,fe
+cyclic-N2,2,cyclic,2,fixed protocol,0,0.37499999999999983
+cyclic-N2,2,cyclic,2,learned decoder only,0,0.37500000000000017
+cyclic-N2,2,cyclic,2,learned decoder only,1,0.3750000000000002
+cyclic-N2,2,cyclic,2,learned decoder only,2,0.3750000000000003
+cyclic-N2,2,cyclic,2,learned encoder + decoder,0,0.6250000000000007
+cyclic-N2,2,cyclic,2,learned encoder + decoder,1,0.6233031835570759
+cyclic-N2,2,cyclic,2,learned encoder + decoder,2,0.6250000000000007
+cyclic-N2,2,cyclic,2,learned encoder + decoder,3,0.6250000000000007
+cyclic-N2,2,cyclic,2,learned encoder + decoder,4,0.6250000000000007
+cyclic-N3,3,cyclic,3,fixed protocol,0,0.4166666666666668
+cyclic-N3,3,cyclic,3,learned decoder only,0,0.41666666666666696
+cyclic-N3,3,cyclic,3,learned decoder only,1,0.4166666666663373
+cyclic-N3,3,cyclic,3,learned decoder only,2,0.41203731786799275
+cyclic-N3,3,cyclic,3,learned encoder + decoder,0,0.6250000000000006
+cyclic-N3,3,cyclic,3,learned encoder + decoder,1,0.6206240023314598
+cyclic-N3,3,cyclic,3,learned encoder + decoder,2,0.6246139644661232
+cyclic-N3,3,cyclic,3,learned encoder + decoder,3,0.6249862083753064
+cyclic-N3,3,cyclic,3,learned encoder + decoder,4,0.6249999999997831
+cyclic-N4,4,cyclic,4,fixed protocol,0,0.4375
+cyclic-N4,4,cyclic,4,learned decoder only,0,0.4361055011455002
+cyclic-N4,4,cyclic,4,learned decoder only,1,0.4331025834571164
+cyclic-N4,4,cyclic,4,learned decoder only,2,0.43749998596550355
+cyclic-N4,4,cyclic,4,learned encoder + decoder,0,0.6249999199502734
+cyclic-N4,4,cyclic,4,learned encoder + decoder,1,0.6249997845461343
+cyclic-N4,4,cyclic,4,learned encoder + decoder,2,0.621000914856769
+cyclic-N4,4,cyclic,4,learned encoder + decoder,3,0.6219044991899273
+cyclic-N4,4,cyclic,4,learned encoder + decoder,4,0.6249999152120187
+cyclic-N5,5,cyclic,5,fixed protocol,0,0.4500000000000002
+cyclic-N5,5,cyclic,5,learned encoder + decoder,0,0.6250000000000007
+cyclic-N5,5,cyclic,5,learned encoder + decoder,1,0.624793846875926
+cyclic-N5,5,cyclic,5,learned encoder + decoder,2,0.6249991412545418
+cyclic-N5,5,cyclic,5,learned encoder + decoder,3,0.6247424489722623
+cyclic-N5,5,cyclic,5,learned encoder + decoder,4,0.6249999999180464
+all-N3,3,all,6,fixed protocol,0,0.33333333333333354
+all-N3,3,all,6,learned encoder + decoder,0,0.7043620163141282
+all-N3,3,all,6,learned encoder + decoder,1,0.6483735163855859
+all-N3,3,all,6,learned encoder + decoder,2,0.6047371634122645
+all-N3,3,all,6,learned encoder + decoder,3,0.6249921814259103
+all-N3,3,all,6,learned encoder + decoder,4,0.6936981408446765
+all-N4,4,all,24,fixed protocol,0,0.32134682773029627
+all-N4,4,all,24,learned encoder + decoder,0,0.7099569237210066
+all-N4,4,all,24,learned encoder + decoder,1,0.6185149151961009
+all-N4,4,all,24,learned encoder + decoder,2,0.6294031369600244
