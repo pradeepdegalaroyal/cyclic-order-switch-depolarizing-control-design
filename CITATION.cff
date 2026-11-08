@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Learned Encoder-Decoder Design for the Quantum Switch of Depolarising Channels in a Superposition of Cyclic Orders"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: "0.1.0"
+date-released: "2026-11-08"
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/cyclic-order-switch-depolarizing-control-design"
+abstract: "Exact simulation of a quantum switch of completely depolarising qubit channels with cyclic and all-permutation order sets, a gradient-designed encoder and decoder that use the control register, and dephasing, channel-strength and finite-shot sweeps."
+keywords:
+  - quantum switch
+  - indefinite causal order
+  - depolarizing channel
+  - quantum communication
+  - variational optimisation
